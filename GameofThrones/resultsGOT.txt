@@ -1,0 +1,25 @@
+Hero                Sansa Stark                             42                  
+vanessa             Self                                    1                   
+vanessa             Stannis Baratheon                       31                  
+v                   Stannis Baratheon                       20                  
+Vanessa Reyes       Cersei Lannister                        43                  
+vanessa             Stannis Baratheon                       20                  
+vanessa             Self                                    2                   
+vanessa             Euron Greyjoy                           7                   
+reyes               Euron Greyjoy                           12                  
+vanessa             Euron Greyjoy                           12                  
+Vanessa             Euron Greyjoy                           12                  
+Vanessa             Jon Snow                                3                   
+VR                  Cersei Lannister                        49                  
+fary                Stannis Baratheon                       24                  
+Gary                Jon Snow                                3                   
+reb                 Sansa Stark                             28                  
+vanessa             Self                                    8                   
+Addi                Jon Snow                                21                  
+vr                  Jon Snow                                3                   
+v                   Euron Greyjoy                           42                  
+gabby               Self                                    4                   
+vanessa             Daenerys Targaryen                      18                  
+vanessa             Stannis Baratheon                       24                  
+harry               Jon Snow                                5                   
+v                   Daenerys Targaryen                      3                   

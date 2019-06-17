@@ -1,0 +1,14 @@
+Brienne of Tarth,100,100,50,no,no,no
+Bronn,70,10,80,yes,no,no
+Samwell Tarly,10,100,50,no,no,yes
+Jon Snow,100,100,50,no,no,no
+Asha Greyjoy,60,100,50,yes,yes,no
+Melisandre,80,50,50,no,no,no
+Petyr Baelish,20,0,100,yes,no,no
+Jaime Lannister,120,90,40,no,no,no
+The Mountain,200,90,50,no,no,no
+Arya Stark,200,100,60,yes,no,no
+Davos Seaworth,10,100,40,no,yes,no
+Tormund Giantsbane,120,70,70,yes,no,no
+Grey Worm,120,100,30,yes,no,no
+Tyrion Lannister,50,100,60,yes,no,yes
